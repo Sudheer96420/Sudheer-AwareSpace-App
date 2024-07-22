@@ -170,7 +170,7 @@ fun HomeScreen(homeViewModel: HomeViewModel = viewModel()) {
 
                         .padding(start = 10.dp),
                     style = TextStyle(fontSize = 20.sp, fontWeight = FontWeight.Bold),
-                    text = "Letters and Words"
+                    text = "Letters and Words screen"
                 )
 
 
